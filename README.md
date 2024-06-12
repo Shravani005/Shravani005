@@ -1,4 +1,5 @@
-## Hi there 👋 I am Shravani, a CSE undergraduate.Welcometo my GitHub profile:)
+## Hi there 👋 I am Shravani Mishra, a CSE undergraduate.
+Welcome to my GitHub profile:)
 
 <!--
 **Shravani005/Shravani005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
