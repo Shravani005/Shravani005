@@ -1,4 +1,4 @@
-## Hi there 👋 I am Shravani Mishra, a CSE undergraduate.
+ Hi there 👋 I am Shravani Mishra, a CSE undergraduate.
 Welcome to my GitHub profile:)
 
 <!--
